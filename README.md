@@ -1,9 +1,9 @@
 # Hunter CS Winter 2019 CodeFest
 
 # Team Info
-### Team name:
+### Team name: JINX
 ### Team members (format: GitHub username, last name, first name):
-- 
+- xlin6798, Lin, Xinyi
 - 
 - 
 -
