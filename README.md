@@ -4,7 +4,7 @@
 ### Team name: JINX
 ### Team members (format: GitHub username, last name, first name):
 - xlin6798, Lin, Xinyi
-- 
+- ramenwarlord, Yeung, Ivan
 - 
 -
 - 
