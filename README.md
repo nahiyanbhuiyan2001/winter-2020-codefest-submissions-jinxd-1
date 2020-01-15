@@ -7,7 +7,7 @@
 - ramenwarlord, Yeung, Ivan
 - jungaha23, Ahn, Jungah
 - nahiyanbhuiyan2001, Bhuiyan, Nahiyan
-- 
+- herpderpisawesome, Zhou, Derek
 - 
 
 ### Group info (check all that apply - add an X in the [ ])
